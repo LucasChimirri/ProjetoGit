@@ -1,0 +1,13 @@
+Criar um repositório
+git init
+
+
+Colocar o arquivo criado (Readme.md) dentro da área de Stading
+Git Add "Readme.md" 
+
+Comitar
+git commit -m "nome do commit"
+
+para mudar de Branch
+git checkout (nome da branch)
+git checkout main
